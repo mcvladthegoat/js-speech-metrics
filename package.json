@@ -1,0 +1,17 @@
+{
+    "name": "@mcvlad/speech-metrics",
+    "version": "0.1.0",
+    "description": "Calculates WER, WCR, SER metrics",
+    "licence": "MIT",
+    "repository": "mcvladthegoat/js-speech-metrics",
+    "main": "index.js",
+    "keywords": [
+	    "stt",
+	    "asr",
+	    "speech",
+	    "metrics",
+	    "wcr",
+	    "wer",
+	    "ser"
+    ]
+}
