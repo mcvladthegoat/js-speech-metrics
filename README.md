@@ -43,3 +43,15 @@ console.log(metrics);
 	WCR: 0.3333333333333335
 }
 ```
+
+## Metrics explanation
+
+**WER** detects the percent of recognition errors.
+
+![WER equation](http://latex.codecogs.com/svg.latex?WER%3D%5Cfrac%7BSubstitutions%2BDeletions%2BInsertions%7D%7BN%7D%2C)
+
+**WCR** detects the percent of correctly recognized words and ignores *Insertion* errors.
+
+![WCR equation](http://latex.codecogs.com/svg.latex?WCR%3D%5Cfrac%7BN%20-%20Substitutions%20+%20Deletions%7D%7BN%7D)
+
+**SER** shows the percent of sentences with 1 or more errors.
