@@ -5,6 +5,8 @@
 
 Calculates metrics for Speech-To-Text systems. Available metrics: WER, WCR, SER.
 
+Inspired by [@imalic3/python-word-error-rate](https://github.com/imalic3/python-word-error-rate) project.
+
 ## Install
 
 ```
