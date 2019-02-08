@@ -25,7 +25,7 @@ const inputData = [
 const metrics = calculateMetrics(inputData);
 console.log(metrics);
 
-//=>
+/* =>
 { 
 	results: [{
 	  hypothesis: "indigenous australian sevington kangaroos for millennia",
@@ -42,6 +42,7 @@ console.log(metrics);
 	WER: 0.22857142857142854,
 	WCR: 0.3333333333333335
 }
+*/
 ```
 
 ## Metrics explanation
